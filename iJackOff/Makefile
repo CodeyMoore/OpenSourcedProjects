@@ -12,4 +12,4 @@ iJackOff_FRAMEWORKS = UIKit CoreGraphics
 include $(THEOS_MAKE_PATH)/application.mk
 
 after-install::
-	install.exec "killall \"iJackOff\"" || true
+	install.exec "killall -9 iJackOff"

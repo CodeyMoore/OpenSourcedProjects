@@ -1,0 +1,3 @@
+@interface XXRootViewController : UIViewController
+
+@end
