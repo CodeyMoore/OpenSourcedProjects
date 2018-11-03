@@ -1,0 +1,10 @@
+Package: com.codeymoore.nofade
+Name: NoFade
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Stops song duration labels from fading away in the Now Playing view on Spotify.
+Depiction: https://codeymoore.github.io/depictions/?p=com.codeymoore.nofade
+Maintainer: Codey Moore
+Author: Codey Moore
+Section: Tweaks
